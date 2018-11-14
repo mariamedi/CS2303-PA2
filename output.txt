@@ -1,0 +1,269 @@
+Programming Assignment 2 - Test Case Ouput With Provided Test Cases - Maria Medina Martinez
+
+------------------------------------------------FIRST TEST -------------------------------------------------------
+
+10 10 10 diehard.txt y
+
+Game of Life
+
+=================Gen 0==================
+          
+          
+          
+       x  
+ xx       
+  x   xxx 
+          
+          
+          
+          
+
+=================Gen 1==================
+          
+          
+          
+          
+ xx   x x 
+ xx    x  
+       x  
+          
+          
+          
+
+=================Gen 2==================
+          
+          
+          
+          
+ xx    x  
+ xx   xxx 
+          
+          
+          
+          
+
+=================Gen 3==================
+          
+          
+          
+          
+ xx   xxx 
+ xx   xxx 
+       x  
+          
+          
+          
+
+=================Gen 4==================
+          
+          
+          
+       x  
+ xx   x x 
+ xx       
+      xxx 
+          
+          
+          
+
+=================Gen 5==================
+          
+          
+          
+       x  
+ xx    x  
+ xx   x x 
+       x  
+       x  
+          
+          
+
+=================Gen 6==================
+          
+          
+          
+          
+ xx   xxx 
+ xx   x x 
+      xxx 
+          
+          
+          
+
+=================Gen 7==================
+          
+          
+          
+       x  
+ xx   x x 
+ xx  x   x
+      x x 
+       x  
+          
+          
+
+=================Gen 8==================
+          
+          
+          
+       x  
+ xx   xxx 
+ xx  xx xx
+      xxx 
+       x  
+          
+          
+
+=================Gen 9==================
+          
+          
+          
+      xxx 
+ xx  x   x
+ xx  x   x
+     x   x
+      xxx 
+          
+          
+
+=================Final State==================
+          
+          
+       x  
+      xxx 
+ xx  x x x
+ xx xxx xx
+     x x x
+      xxx 
+       x  
+          
+
+A total of 10 generations were printed.
+Termination due to desired generations being reached.
+
+------------------------------------------------SECOND TEST -------------------------------------------------------
+20 20 10 blinker.txt y
+
+Game of Life
+
+=================Gen 0==================
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+        xxx         
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+
+=================Gen 1==================
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+         x          
+         x          
+         x          
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+
+=================Final State==================
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+        xxx         
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+
+A total of 2 generations were printed.
+Termination due to generations reaching a steady state.
+
+------------------------------------------------THIRD TEST -------------------------------------------------------
+20 20 10 block.txt y
+
+Game of Life
+
+=================Gen 0==================
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+         xx         
+         xx         
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+
+=================Final State==================
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+         xx         
+         xx         
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+
+A total of 1 generations were printed.
+Termination due to generations reaching a steady state.
+
